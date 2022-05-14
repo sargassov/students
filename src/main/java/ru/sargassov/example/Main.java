@@ -41,7 +41,6 @@ public class Main {
         }
         System.out.println("Чистим всех остальных студентов");
 
-
         factory.shutdown();
     }
 }
